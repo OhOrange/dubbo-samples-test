@@ -6,6 +6,4 @@ public interface UserService {
 
     User getUserInfo(long userId);
 
-
-
 }
